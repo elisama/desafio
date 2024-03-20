@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\versao_app_basico.props" />
+</Project>
